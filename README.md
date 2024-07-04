@@ -8,3 +8,7 @@
 Disfl-QA dataset obtained from: 
 Gupta, A., Xu, J., Upadhyay, S., Yang, D., & Faruqui, M. (2021). Disfl-QA: A Benchmark Dataset for Understanding Disfluencies in Question Answering. Findings of ACL. https://doi.org/10.18653/v1/2021.findings-acl.293
 Link to github: https://github.com/google-research-datasets/Disfl-QA
+
+Switchboard Corpus obtained from:
+Godfrey, John J., and Edward Holliman. Switchboard-1 Release 2 LDC97S62. Web Download. Philadelphia: Linguistic Data Consortium, 1993.
+The data section in the repository provides only sample data.
